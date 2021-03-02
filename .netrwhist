@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='C:/Users/All Users/DockerDesktop'
+let g:netrw_dirhist_6='C:/Users/All Users'
+let g:netrw_dirhist_5='C:/Users'
+let g:netrw_dirhist_4='C:/Users/All Users'
+let g:netrw_dirhist_3='C:/Users'
+let g:netrw_dirhist_2='C:/Users/Yeimar'
+let g:netrw_dirhist_1='C:/Users/Yeimar/AppData'
+let g:netrw_dirhist_0='C:/Users/Yeimar/AppData/Local'
+let g:netrw_dirhist_9='C:\Users\Yeimar\AppData\Local\nvim'
+let g:netrw_dirhist_8='C:/'
